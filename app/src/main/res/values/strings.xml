@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">MAJ</string>
+    <string name="name">Name</string>
+    <string name="username">Username</string>
+    <string name="followers">Followers</string>
+    <string name="following">Following</string>
+    <string name="favorite">Favorite</string>
+    <string name="dark_mode">Dark Mode</string>
+    <string name="on">ON</string>
+    <string name="off">OFF</string>
+    <string name="settings">settings</string>
+</resources>
